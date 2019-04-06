@@ -1,0 +1,11 @@
+table th {
+  border: 1px solid black;
+  color: grey;
+  background-color: blue; }
+table td {
+  padding: 30px;
+  border: 1px solid black;
+  color: grey;
+  background-color: #0affde; }
+
+/*# sourceMappingURL=triads.css.map */

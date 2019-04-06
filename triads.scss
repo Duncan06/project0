@@ -1,0 +1,16 @@
+$color: grey;
+$border: 1px solid black;
+table {
+  th
+  {
+    border: $border;
+    color: $color;
+    background-color: blue;
+  }
+  td{
+    padding: 30px;
+    border: $border;
+    color: $color;
+    background-color: #0affde;
+  }
+}

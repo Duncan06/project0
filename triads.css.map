@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGE,QACA;EACE,MAAM,EAJD,eAAe;EAKpB,KAAK,EAND,IAAI;EAOR,gBAAgB,EAAE,IAAI;AAExB,QAAE;EACA,OAAO,EAAE,IAAI;EACb,MAAM,EAVD,eAAe;EAWpB,KAAK,EAZD,IAAI;EAaR,gBAAgB,EAAE,OAAO",
+"sources": ["triads.scss"],
+"names": [],
+"file": "triads.css"
+}
